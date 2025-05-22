@@ -39,7 +39,7 @@ CO2NEX is the world’s first infrastructure delivering real-time, satellite-pow
 ### 📬 Get in Touch
 
 **Email:** [social@co2nex.org](mailto:social@co2nex.org)  
-**Main Website (coming soon):** (https://co2nex.org)
+**Main Website:** (https://co2nex.org)
 
 ---
 
